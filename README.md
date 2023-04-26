@@ -4,6 +4,7 @@ A script for Microsoft PowerShell that authenticates the user with a username an
 1) First of all, download the script from the releases page.
 2) Open the script you downloaded (and the one you are integrating it with if you've already made it).
 3) Write (or insert) *your* script in the space where it tells you to.
+3.5) Modify Username and Password.
 4) You're done!
 
 # License:
